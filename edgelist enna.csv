@@ -1,0 +1,10 @@
+from,to,strength,relation
+en,ju,3,1
+en,lu,3,2
+en,ma,3,3
+en,ar,3,3
+ju,ma,1,2
+ju,lu,2,2
+ju,ar,2,2
+ma,ar,3,3
+lu,ar,1,2
