@@ -1,4 +1,4 @@
-source,target,weight
+from,to,weight
 0,14,10
 0,16,5
 0,10,5
